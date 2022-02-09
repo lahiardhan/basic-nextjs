@@ -1,1 +1,1 @@
-# basix-nextjs
+# basic-nextjs
